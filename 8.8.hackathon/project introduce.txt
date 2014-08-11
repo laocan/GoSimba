@@ -1,3 +1,0 @@
-For many people who love outdoor sports, the flexible weather and the hostile environment can ruin a long-expected plan of outdoor exercising. What we want to do is to amend this shortage of outdoor sports and make people can do the same thing at home.
-With the help of Cardboard and Oculus, we can give people virtual-reality experience of the street view. And thus, we can build a virtual scene that is close to the real world.
-In our program, we have made a home-cycling system that can help people to establish the outdoor scenes. When people are cycing at home, our system can present users the scene that is thousands of miles away from here.
